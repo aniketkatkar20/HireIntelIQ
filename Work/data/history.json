@@ -1,0 +1,26 @@
+[
+  {
+    "question": "You've worked with both CNNs and LLMs in KisanSarthi and have research paper experience on plant disease detection using these technologies. Can you describe a specific challenge you faced integrating these models and how you overcame it?",
+    "answer": "yes hello hello"
+  },
+  {
+    "question": "In Hire Minds, you used XGBoost and Random Forest. Can you explain your model selection process, including the evaluation metrics you used and why you chose those specific models for candidate evaluation?",
+    "answer": "I forgot I will tell you tomorrow"
+  },
+  {
+    "question": "You mention experience with RAG in PersonaEye. How did you handle the challenge of ensuring the chatbot provides relevant and non-hallucinatory personal brand advice using RAG?",
+    "answer": "personal brand yes"
+  },
+  {
+    "question": "The job description mentions deploying models on cloud platforms. While you don't explicitly list cloud experience, you do mention full-stack development and web design. How would you approach deploying your KisanSarthi model on AWS or Azure, considering latency and throughput requirements? What steps would you take?",
+    "answer": "hello hello"
+  },
+  {
+    "question": "Describe your experience with preprocessing large datasets, specifically highlighting any challenges you faced and the data engineering best practices you employed.",
+    "answer": "best practice"
+  },
+  {
+    "question": "The job description mentions working with data scientists and software engineers. Give an example of a project where you successfully collaborated with a cross-functional team, highlighting your communication approach and how you contributed to product innovation.",
+    "answer": "I think that"
+  }
+]
