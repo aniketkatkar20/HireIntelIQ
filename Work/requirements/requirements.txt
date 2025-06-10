@@ -3,3 +3,14 @@ pyttsx3
 SpeechRecognition
 pyaudio
 python-dotenv
+Flask
+Werkzeug
+python-dotenv
+smtplib
+email
+numpy
+torch
+librosa
+scipy
+scikit-learn
+silero-vad @ git+https://github.com/snakers4/silero-vad
